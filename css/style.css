@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.background {
+  height: 120vh;
+  width: 100%;
+  position: relative;
+  background-color: #008080;
+}
+
+.city {
+  position: absolute;
+  margin: auto;
+  top: 70px;
+  left: 20%;
+  bottom: 0;
+
+
+
+}
