@@ -4,20 +4,21 @@
   padding: 0;
 }
 
-.background {
-  height: 120vh;
-  width: 100%;
-  position: relative;
+body {
   background-color: #008080;
 }
 
+.container {
+  position: relative;
+
+}
 .city {
-  position: absolute;
-  margin: auto;
-  top: 70px;
-  left: 20%;
-  bottom: 0;
-
-
+  position:absolute;
+  left:185px;
+  top:-77px;
+  height: 90vh;
+  width: 20%;
+  transform: translate(90px, 20%);
+  background-color: white;
 
 }
